@@ -2,6 +2,29 @@
 
 # Observing and Analyzing Network Traffic with Microsoft Azure
 
+---
+
+### Environments and Technologies Used
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop Protocol (RDP)
+- Wireshark
+
+### Operating Systems Used
+
+- Windows 10 (21H2)
+- Ubuntu Linux
+
+### List of Prerequisites
+
+- Active Microsoft Azure Subscription
+- Installation of Microsoft Remote Desktop (for Mac users)
+- Knowledge of basic networking protocols (ICMP, SSH, DHCP, DNS)
+- Installation of Wireshark on Windows 10 VM
+- Basic command-line skills for Windows PowerShell and Linux terminal
+
+---
+
 ## Part 1: Creating Virtual Machines
 
 1. **Access the Azure Portal**:
